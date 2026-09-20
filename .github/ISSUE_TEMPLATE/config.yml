@@ -6,4 +6,6 @@ contact_links:
   - name: Privacy Policy
     url: https://heart.jenny.media/privacy
     about: Read how Heart Rate Insights handles data.
-
+  - name: Terms of Use
+    url: https://heart.jenny.media/terms
+    about: Read the terms that apply to Heart Rate Insights.

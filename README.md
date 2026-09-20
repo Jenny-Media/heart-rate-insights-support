@@ -28,5 +28,5 @@ For help that requires private information, use [private email support](https://
 - [Product website](https://heart.jenny.media/)
 - [Support](https://heart.jenny.media/support)
 - [Privacy Policy](https://heart.jenny.media/privacy)
+- [Terms of Use](https://heart.jenny.media/terms)
 - [App Store](https://apps.apple.com/us/app/heart-rate-insights/id6785088305)
-
