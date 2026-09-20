@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private support
+    url: https://heart.jenny.media/support
+    about: Use email support for account, purchase, privacy, or health-data-related questions.
+  - name: Privacy Policy
+    url: https://heart.jenny.media/privacy
+    about: Read how Heart Rate Insights handles data.
+
